@@ -30,9 +30,6 @@ Lo que hago bien 🧑‍💻 :
 <br>
 
 ## Proyectos 🚀 :
-
-<div align="center">
-
 <table>
   <tr>
     <td align="center" width="200">
@@ -57,5 +54,10 @@ Lo que hago bien 🧑‍💻 :
 </table>
 
 </div>
+<br/>
+
+## Estadísticas del Perfil de GitHub
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdavidmontero&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![mdavidmontero GitHub stats](https://github-readme-stats.vercel.app/api?username=mdavidmontero&theme=algolia)](https://github.com/mdavidmontero/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdavidmontero&theme=algolia)](https://github.com/mdavidmontero/github-readme-stats) [![mdavidmontero wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdavidmontero&theme=algolia)](https://github.com/mdavidmontero/github-readme-stats)
+<div align="center">
 
 <br>
