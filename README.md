@@ -8,7 +8,7 @@
 
 Sobre mí :
 <br/>
-🏢 Actualmente soy  Desarrollador Fullstack  
+🏢 Actualmente soy  Desarrollador de Software  
 🎓 Estudio Ingeniería de Sistemas 
 <br/>
 🏡 Vivo en Colombia
@@ -19,7 +19,7 @@ Sobre mí :
 
 <br>
 
-[![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/linkedin.png "@mateo_rodriguez")](https://www.linkedin.com/in/rodriguez-montero-mateo-david-09051427b/) [![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@mateo_rodriguez")](https://twitter.com/mateo_rodriguez) [![@0712345678](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0712345678")](tel:0712345678) [![@mateo.rodriguez@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@mateo.rodriguez@gmail.com")](mateo.rodriguez@gmail.com)
+[![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/linkedin.png "@mateo_rodriguez")](https://www.linkedin.com/in/rodriguez-montero-mateo-david-09051427b/) 
 
 <br>
 
@@ -27,33 +27,6 @@ Lo que hago bien 🧑‍💻 :
 <br>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>  <img src="https://img.icons8.com/color/48/000000/prisma-orm.png"/> 
 
-<br>
-
-## Proyectos 🚀 :
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/project-management.png"/>
-      <br />
-      <b><a href="https://github.com/MateoRodriguez/Proyecto1">Proyecto 1</a></b>
-      <p>Descripción breve del proyecto 1</p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/project-management.png"/>
-      <br />
-      <b><a href="https://github.com/MateoRodriguez/Proyecto2">Proyecto 2</a></b>
-      <p>Descripción breve del proyecto 2</p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/project-management.png"/>
-      <br />
-      <b><a href="https://github.com/MateoRodriguez/Proyecto3">Proyecto 3</a></b>
-      <p>Descripción breve del proyecto 3</p>
-    </td>
-  </tr>
-</table>
-
-</div>
 <br/>
 
 ## Estadísticas del Perfil de GitHub
