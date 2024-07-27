@@ -12,10 +12,12 @@ Sobre mí :
 🎓 Estudio Ingeniería de Sistemas 
 <br/>
 🏡 Vivo en Colombia
+Constanteme me encuentro desarrollando proyectos o aprendiendo una tecnologia nueva,
+puedes revisar mis repositorios de github y ver algunos proyectos que he realizado
 
 <br>
 
-## Connect with me ☕ :
+## Conecta Conmigo ☕ :
 
 <br>
 
