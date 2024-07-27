@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="Mateo Rodriguez" src="./assets/oh_hi_there.png" width="300"/>
+    <img alt="Mateo Rodriguez" src="https://firebasestorage.googleapis.com/v0/b/bienes-raices-c6130.appspot.com/o/propiedades%2Fbanner%20github.png?alt=media&token=ed4bc81a-a7f1-442d-9208-6add06b0db8e" width="300"/>
 </div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Mateo Rodriguez</h1>
  
@@ -19,7 +19,7 @@ Sobre mí :
 
 <br>
 
-[![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mateo_rodriguez")](https://www.instagram.com/mateo_rodriguez/) [![@MateoRodriguez](https://img.icons8.com/fluency/48/000000/facebook.png "@MateoRodriguez")](https://www.facebook.com/MateoRodriguez) [![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/linkedin.png "@mateo_rodriguez")](https://www.linkedin.com/in/mateo_rodriguez/) [![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@mateo_rodriguez")](https://twitter.com/mateo_rodriguez) [![@0712345678](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0712345678")](tel:0712345678) [![@mateo.rodriguez@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@mateo.rodriguez@gmail.com")](mateo.rodriguez@gmail.com)
+[![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/linkedin.png "@mateo_rodriguez")](https://www.linkedin.com/in/rodriguez-montero-mateo-david-09051427b/) [![@mateo_rodriguez](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@mateo_rodriguez")](https://twitter.com/mateo_rodriguez) [![@0712345678](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0712345678")](tel:0712345678) [![@mateo.rodriguez@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@mateo.rodriguez@gmail.com")](mateo.rodriguez@gmail.com)
 
 <br>
 
