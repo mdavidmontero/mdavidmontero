@@ -13,7 +13,7 @@ Sobre mí :
 <br/>
 🏡 Vivo en Colombia
 <br/>
-Constanteme me encuentro desarrollando proyectos o aprendiendo una tecnologia nueva,
+Constantemente me encuentro desarrollando proyectos o aprendiendo una tecnologia nueva,
 puedes revisar mis repositorios de github y ver algunos proyectos que he realizado
 
 <br>
