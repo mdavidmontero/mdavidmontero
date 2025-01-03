@@ -4,7 +4,7 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Mateo Rodriguez</h1>
  
  
- <img src="https://komarev.com/ghpvc/?username=MateoRodriguez" alt="Mateo Rodriguez" style="border-radius: 50%" />
+ <img src="https://komarev.com/ghpvc/?username=MateoRodriguez" alt="Mateo Rodriguez" />
 
 Sobre mí :
 <br/>
@@ -30,7 +30,7 @@ Lo que hago bien 🧑‍💻 :
 <br>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>  <img src="https://img.icons8.com/color/48/000000/prisma-orm.png"/> 
 <img src="https://nestjs.com/img/logo-small.svg"  width="70" alt="Nest Logo" />
-<img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg"  width="70" alt="Nexjt Logo" />
+<img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg"  width="70" alt="Nexjt Logo" style="border-radius: 50%"  />
 
 
 <br/>
