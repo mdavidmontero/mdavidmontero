@@ -29,9 +29,8 @@ puedes revisar mis repositorios de github y ver algunos proyectos que he realiza
 Lo que hago bien 🧑‍💻 :
 <br>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>  <img src="https://img.icons8.com/color/48/000000/prisma-orm.png"/> 
-<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
+
 
 <br/>
 
